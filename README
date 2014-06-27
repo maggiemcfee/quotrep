@@ -1,0 +1,5 @@
+quotrep.pl
+
+This script will parse a user's maildirsize and do the math necessary to 
+show you the current usage in a friendly way.
+Maggie McFee 6/17/14
